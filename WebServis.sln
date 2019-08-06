@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServis", "WebServis\WebServis.csproj", "{C5B6780B-5080-4465-948D-69B6D91B4B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B6780B-5080-4465-948D-69B6D91B4B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B6780B-5080-4465-948D-69B6D91B4B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B6780B-5080-4465-948D-69B6D91B4B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B6780B-5080-4465-948D-69B6D91B4B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95095700-E528-479C-B8FC-EAFA54DC4FC8}
+	EndGlobalSection
+EndGlobal
